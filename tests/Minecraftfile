@@ -1,0 +1,6 @@
+curse: 'https://minecraft.curseforge.com'
+
+minecraft: '1.12'
+
+mods:
+  - thermal-foundation: '1.12-2.3.4.13'
